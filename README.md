@@ -2,7 +2,7 @@
 - 👀 I’m interested in developing software.
 - 🌱 I’m currently learning DSA.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Reach me at https://www.linkedin.com/in/pritam-kumar-1111141b3
 
 <!---
 cruzerblade1512/cruzerblade1512 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
